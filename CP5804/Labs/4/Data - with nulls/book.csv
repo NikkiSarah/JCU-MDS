@@ -1,0 +1,21 @@
+BOOK_NUM,BOOK_TITLE,BOOK_YEAR,BOOK_COST,BOOK_SUBJECT,PAT_ID
+5235,Beginner's Guide to JAVA,2012,59.95,Programming,NULL
+5236,Database in the Cloud,2012,79.95,Cloud,NULL
+5237,Mastering the database environment,2013,89.95,Database,NULL
+5238,Conceptual Programming,2013,59.95,Programming,1229
+5239,J++ in Mobile Apps,2013,49.95,Programming,NULL
+5240,iOS Programming,2013,79.95,Programming,1212
+5241,JAVA First Steps,2013,49.95,Programming,NULL
+5242,C# in Middleware Deployment,2013,59.95,Middleware,1228
+5243,DATABASES in Theory,2013,129.95,Database,NULL
+5244,Cloud-based Mobile Applications,2013,69.95,Cloud,NULL
+5245,The Golden Road to Platform independence,2014,119.95,Middleware,NULL
+5246,Capture the Cloud,2014,69.95,Cloud,1172
+5247,Shining Through the Cloud: Sun Programming,2014,109.95,Programming,NULL
+5248,"What You Always Wanted to Know About Database, But Were Afraid to Ask",2014,49.95,Database,NULL
+5249,Starlight Applications,2014,69.95,Cloud,1207
+5250,Reengineering the Middle Tier,2014,89.95,Middleware,NULL
+5251,Thoughts on Revitalizing Ruby,2014,59.95,Programming,NULL
+5252,Beyond the Database Veil,2014,69.95,Database,1229
+5253,Virtual Programming for Virtual Environments,2014,79.95,Programming,NULL
+5254,Coding Style for Maintenance,2015,49.95,Programming,NULL
