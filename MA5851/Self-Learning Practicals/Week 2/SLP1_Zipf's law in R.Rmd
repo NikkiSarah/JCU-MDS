@@ -1,0 +1,87 @@
+---
+title: Wk2_SLP1_Nikki Fitzherbert
+author: "Nikki Fitzherbert 13848336"
+date: "05 March 2021"
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+  word_document: default
+mainfont: Calibri
+fontsize: 12pt
+geometry: margin=2.54cm
+---
+
+Note: The code was copied from https://www.analytics-tuts.com/zipfs-law-introduction-text-analytics/
+
+### 1. Install and Load Packages
+
+```{r include=FALSE, eval=FALSE}
+install.packages("tm")
+install.packages("SnowballC")
+install.packages("wordcloud")
+install.packages("RColorBrewer")
+```
+
+```{r message=FALSE, warning=FALSE}
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+```
+### 2. Load, Transform and Clean Data
+
+```{r warning=FALSE}
+
+filePath <- "https://archive.org/stream/AnneFrankTheDiaryOfAYoungGirl_201606/
+Anne-Frank-The-Diary-Of-A-Young-Girl_djvu.txt"
+
+text <- readLines(filePath)
+docs <- Corpus(VectorSource(text))
+```
+
+```{r warning=FALSE}
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs <- tm_map(docs, toSpace, "/")
+docs <- tm_map(docs, toSpace, "@")
+docs <- tm_map(docs, toSpace, "\\|")
+
+docs <- tm_map(docs, content_transformer(tolower))
+docs <- tm_map(docs, removeNumbers)
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, stripWhitespace)
+```
+
+\pagebreak
+
+```{r}
+dtm <- TermDocumentMatrix(docs)
+
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+```
+
+```{r}
+zipf <- cbind(d, Rank = 1:nrow(d), per=100 * d$freq / sum(d$freq))
+```
+
+### 3. Visualising Zipf's Law
+
+```{r out.width='75%'}
+plot(zipf$Rank, zipf$freq,
+     xlab = "Rank", ylab = "Frequency", main = "Frequency-Rank Plot",
+     log = "x")
+```
+
+\pagebreak
+
+```{r out.width='75%'}
+plot(zipf$Rank, zipf$per,
+     xlab = "Rank", ylab = "Percent", main = "Frequency Percent-Rank Plot",
+     log = "x")
+
+wordcloud(words = zipf$word, freq = d$freq, min.freq = 1, max.words=200, 
+random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+```

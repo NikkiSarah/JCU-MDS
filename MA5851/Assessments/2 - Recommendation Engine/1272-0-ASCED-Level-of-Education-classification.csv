@@ -1,0 +1,65 @@
+Broad_Level_Code,Broad_Level_Name,Narrow_Level_Code,Detailed Levels,Detailed_Level_Code,Detailed_Level_Name
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,111,Higher Doctorate
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,112,Doctorate by Research
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,113,Doctorate by Coursework
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,114,Professional Specialist Qualification at Doctoral Degree Level
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,115,Statement of Attainment at Doctoral Degree Level
+1,POSTGRADUATE DEGREE LEVEL,11,Doctoral Degree Level,116,Bridging and Enabling Course at Doctoral Degree Level
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level,121,Master Degree by Research
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level,122,Master Degree by Coursework
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level,123,Professional Specialist Qualification at Master Degree Level
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level,124,Statement of Attainment at Master Degree Level
+1,POSTGRADUATE DEGREE LEVEL,12,Master Degree Level,125,Bridging and Enabling Course at Master Degree Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level,211,Graduate Diploma
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level,212,Graduate Qualifying or Preliminary
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level,213,Professional Specialist Qualification at Graduate Diploma Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level,214,Statement of Attainment at Graduate Diploma Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,21,Graduate Diploma Level,215,Bridging and Enabling Course at Graduate Diploma Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,22,Graduate Certificate Level,221,Graduate Certificate
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,22,Graduate Certificate Level,222,Professional Specialist Qualification at Graduate Certificate Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,22,Graduate Certificate Level,223,Statement of Attainment at Graduate Certificate Level
+2,GRADUATE DIPLOMA AND GRADUATE CERTIFICATE LEVEL,22,Graduate Certificate Level,224,Bridging and Enabling Course at Graduate Certificate Level
+3,BACHELOR DEGREE LEVEL,31,Bachelor Degree Level,311,Bachelor (Honours) Degree
+3,BACHELOR DEGREE LEVEL,31,Bachelor Degree Level,312,Bachelor (Pass) Degree
+3,BACHELOR DEGREE LEVEL,31,Bachelor Degree Level,313,Statement of Attainment at Bachelor Degree Level
+3,BACHELOR DEGREE LEVEL,31,Bachelor Degree Level,314,Bridging and Enabling Course at Bachelor Degree Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level,411,Advanced Diploma
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level,412,Statement of Attainment at Advanced Diploma Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level,413,Associate Degree
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level,414,Statement of Attainment at Associate Degree Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,41,Advanced Diploma and Associate Degree Level,415,Bridging and Enabling Course at Advanced Diploma and Associate Degree Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,42,Diploma Level,421,Diploma
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,42,Diploma Level,422,Statement of Attainment at Diploma Level
+4,ADVANCED DIPLOMA AND DIPLOMA LEVEL,42,Diploma Level,423,Bridging and Enabling Course at Diploma Level
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,511,Certificate IV
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,512,Statement of Attainment at Certificate IV Level
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,513,Bridging and Enabling Course at Certificate IV Level
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,514,Certificate III
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,515,Statement of Attainment at Certificate III Level
+5,CERTIFICATE LEVEL,51,Certificate III & IV Level,516,Bridging and Enabling Course at Certificate III Level
+5,CERTIFICATE LEVEL,52,Certificate I & II Level,521,Certificate II
+5,CERTIFICATE LEVEL,52,Certificate I & II Level,522,Statement of Attainment at Certificate II Level
+5,CERTIFICATE LEVEL,52,Certificate I & II Level,523,Bridging and Enabling Course at Certificate II Level
+5,CERTIFICATE LEVEL,52,Certificate I & II Level,524,Certificate I
+5,CERTIFICATE LEVEL,52,Certificate I & II Level,525,Statement of Attainment at Certificate I Level
+6,SECONDARY EDUCATION,61,Senior Secondary Education,611,Year 12
+6,SECONDARY EDUCATION,61,Senior Secondary Education,612,Bridging and Enabling Course at Senior Secondary Level
+6,SECONDARY EDUCATION,61,Senior Secondary Education,613,Year 11
+6,SECONDARY EDUCATION,62,Junior Secondary Education,621,Year 10
+6,SECONDARY EDUCATION,62,Junior Secondary Education,622,Year 9
+6,SECONDARY EDUCATION,62,Junior Secondary Education,623,Year 8
+6,SECONDARY EDUCATION,62,Junior Secondary Education,624,Year 7 (excluding SA)
+7,PRIMARY EDUCATION,71,Primary Education,711,Year 7 (SA)
+7,PRIMARY EDUCATION,71,Primary Education,712,Year 6
+7,PRIMARY EDUCATION,71,Primary Education,713,Year 5
+7,PRIMARY EDUCATION,71,Primary Education,714,Year 4
+7,PRIMARY EDUCATION,71,Primary Education,715,Year 3
+7,PRIMARY EDUCATION,71,Primary Education,716,Year 2
+7,PRIMARY EDUCATION,71,Primary Education,717,Year 1
+7,PRIMARY EDUCATION,71,Primary Education,718,Pre-Year 1
+8,PRE-PRIMARY EDUCATION,81,Pre-primary Education,811,Pre-primary Education
+9,OTHER EDUCATION,91,Non-award Courses,911,Non-award Courses in Higher Education
+9,OTHER EDUCATION,91,Non-award Courses,912,Other Non-award Courses
+9,OTHER EDUCATION,99,Miscellaneous Education,991,Statements of Attainment not Identifiable by Level
+9,OTHER EDUCATION,99,Miscellaneous Education,992,Bridging and Enabling Courses not Identifiable by Level
+9,OTHER EDUCATION,99,Miscellaneous Education,999,"Education, n.e.c."

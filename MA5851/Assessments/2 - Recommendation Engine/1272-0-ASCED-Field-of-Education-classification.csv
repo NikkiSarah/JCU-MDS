@@ -1,0 +1,357 @@
+Broad Fields Code,Broad Fields Name,Narrow Fields Code,Narrow Fields Name,Detailed Fields Code,Detailed Fields Name
+01,NATURAL AND PHYSICAL SCIENCES,0101,Mathematical Sciences,010101,Mathematics
+01,NATURAL AND PHYSICAL SCIENCES,0101,Mathematical Sciences,010103,Statistics
+01,NATURAL AND PHYSICAL SCIENCES,0101,Mathematical Sciences,010199,"Mathematical Sciences, n.e.c."
+01,NATURAL AND PHYSICAL SCIENCES,0103,Physics and Astronomy,010301,Physics
+01,NATURAL AND PHYSICAL SCIENCES,0103,Physics and Astronomy,010303,Astronomy
+01,NATURAL AND PHYSICAL SCIENCES,0105,Chemical Sciences,010501,Organic Chemistry
+01,NATURAL AND PHYSICAL SCIENCES,0105,Chemical Sciences,010503,Inorganic Chemistry
+01,NATURAL AND PHYSICAL SCIENCES,0105,Chemical Sciences,010599,"Chemical Sciences, n.e.c."
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010701,Atmospheric Sciences
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010703,Geology
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010705,Geophysics
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010707,Geochemistry
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010709,Soil Science
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010711,Hydrology
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010713,Oceanography
+01,NATURAL AND PHYSICAL SCIENCES,0107,Earth Sciences,010799,"Earth Sciences, n.e.c."
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010901,Biochemistry and Cell Biology
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010903,Botany
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010905,Ecology and Evolution
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010907,Marine Science
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010909,Genetics
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010911,Microbiology
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010913,Human Biology
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010915,Zoology
+01,NATURAL AND PHYSICAL SCIENCES,0109,Biological Sciences,010999,"Biological Sciences, n.e.c."
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019901,Medical Science
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019903,Forensic Science
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019905,Food Science and Biotechnology
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019907,Pharmacology
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019909,Laboratory Technology
+01,NATURAL AND PHYSICAL SCIENCES,0199,Other Natural and Physical Sciences,019999,"Natural and Physical Sciences, n.e.c."
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020101,Formal Language Theory
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020103,Programming
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020105,Computational Theory
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020107,Compiler Construction
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020109,Algorithms
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020111,Data Structures
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020113,Networks and Communications
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020115,Computer Graphics
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020117,Operating Systems
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020119,Artificial Intelligence
+02,INFORMATION TECHNOLOGY,0201,Computer Science,020199,"Computer Science, n.e.c."
+02,INFORMATION TECHNOLOGY,0203,Information Systems,020301,Conceptual Modelling
+02,INFORMATION TECHNOLOGY,0203,Information Systems,020303,Database Management
+02,INFORMATION TECHNOLOGY,0203,Information Systems,020305,Systems Analysis and Design
+02,INFORMATION TECHNOLOGY,0203,Information Systems,020307,Decision Support Systems
+02,INFORMATION TECHNOLOGY,0203,Information Systems,020399,"Information Systems, n.e.c."
+02,INFORMATION TECHNOLOGY,0299,Other Information Technology,029901,Security Science
+02,INFORMATION TECHNOLOGY,0299,Other Information Technology,029999,"Information Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030101,Manufacturing Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030103,Printing
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030105,Textile Making
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030107,Garment Making
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030109,Footwear Making
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030111,Wood Machining and Turning
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030113,Cabinet Making
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030115,Furniture Upholstery and Renovation
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030117,Furniture Polishing
+03,ENGINEERING AND RELATED TECHNOLOGIES,0301,Manufacturing Engineering and Technology,030199,"Manufacturing Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering,030301,Chemical Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering,030303,Mining Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering,030305,Materials Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering,030307,Food Processing Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0303,Process and Resources Engineering,030399,"Process and Resources Engineering, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030501,Automotive Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030503,Vehicle Mechanics
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030505,Automotive Electrics and Electronics
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030507,Automotive Vehicle Refinishing
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030509,Automotive Body Construction
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030511,Panel Beating
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030513,Upholstery and Vehicle Trimming
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030515,Automotive Vehicle Operations
+03,ENGINEERING AND RELATED TECHNOLOGIES,0305,Automotive Engineering and Technology,030599,"Automotive Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030701,Mechanical Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030703,Industrial Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030705,Toolmaking
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030707,"Metal Fitting, Turning and Machining"
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030709,Sheetmetal Working
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030711,Boilermaking and Welding
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030713,Metal Casting and Patternmaking
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030715,Precision Metalworking
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030717,Plant and Machine Operations
+03,ENGINEERING AND RELATED TECHNOLOGIES,0307,Mechanical and Industrial Engineering and Technology,030799,"Mechanical and Industrial Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030901,Construction Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030903,Structural Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030905,Building Services Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030907,Water and Sanitary Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030909,Transport Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030911,Geotechnical Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030913,Ocean Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0309,Civil Engineering,030999,"Civil Engineering, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0311,Geomatic Engineering,031101,Surveying
+03,ENGINEERING AND RELATED TECHNOLOGIES,0311,Geomatic Engineering,031103,Mapping Science
+03,ENGINEERING AND RELATED TECHNOLOGIES,0311,Geomatic Engineering,031199,"Geomatic Engineering, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031301,Electrical Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031303,Electronic Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031305,Computer Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031307,Communications Technologies
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031309,Communications Equipment Installation and Maintenance
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031311,Powerline Installation and Maintenance
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031313,"Electrical Fitting, Electrical Mechanics"
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031315,Refrigeration and Air Conditioning Mechanics
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031317,Electronic Equipment Servicing
+03,ENGINEERING AND RELATED TECHNOLOGIES,0313,Electrical and Electronic Engineering and Technology,031399,"Electrical and Electronic Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology,031501,Aerospace Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology,031503,Aircraft Maintenance Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology,031505,Aircraft Operation
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology,031507,Air Traffic Control
+03,ENGINEERING AND RELATED TECHNOLOGIES,0315,Aerospace Engineering and Technology,031599,"Aerospace Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0317,Maritime Engineering and Technology,031701,Maritime Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0317,Maritime Engineering and Technology,031703,Marine Construction
+03,ENGINEERING AND RELATED TECHNOLOGIES,0317,Maritime Engineering and Technology,031705,Marine Craft Operation
+03,ENGINEERING AND RELATED TECHNOLOGIES,0317,Maritime Engineering and Technology,031799,"Maritime Engineering and Technology, n.e.c."
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039901,Environmental Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039903,Biomedical Engineering
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039905,Fire Technology
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039907,Rail Operations
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039909,Cleaning
+03,ENGINEERING AND RELATED TECHNOLOGIES,0399,Other Engineering and Related Technologies,039999,"Engineering and Related Technologies, n.e.c."
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment,040101,Architecture
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment,040103,Urban Design and Regional Planning
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment,040105,Landscape Architecture
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment,040107,Interior and Environmental Design
+04,ARCHITECTURE AND BUILDING,0401,Architecture and Urban Environment,040199,"Architecture and Urban Environment, n.e.c."
+04,ARCHITECTURE AND BUILDING,0403,Building,040301,Building Science and Technology
+04,ARCHITECTURE AND BUILDING,0403,Building,040303,Building Construction Management
+04,ARCHITECTURE AND BUILDING,0403,Building,040305,Building Surveying
+04,ARCHITECTURE AND BUILDING,0403,Building,040307,Building Construction Economics
+04,ARCHITECTURE AND BUILDING,0403,Building,040309,Bricklaying and Stonemasonry
+04,ARCHITECTURE AND BUILDING,0403,Building,040311,Carpentry and Joinery
+04,ARCHITECTURE AND BUILDING,0403,Building,040313,"Ceiling, Wall and Floor Fixing"
+04,ARCHITECTURE AND BUILDING,0403,Building,040315,Roof Fixing
+04,ARCHITECTURE AND BUILDING,0403,Building,040317,Plastering
+04,ARCHITECTURE AND BUILDING,0403,Building,040319,Furnishing Installation
+04,ARCHITECTURE AND BUILDING,0403,Building,040321,Floor Coverings
+04,ARCHITECTURE AND BUILDING,0403,Building,040323,Glazing
+04,ARCHITECTURE AND BUILDING,0403,Building,040325,"Painting, Decorating and Sign Writing"
+04,ARCHITECTURE AND BUILDING,0403,Building,040327,Plumbing
+04,ARCHITECTURE AND BUILDING,0403,Building,040329,Scaffolding and Rigging
+04,ARCHITECTURE AND BUILDING,0403,Building,040399,"Building, n.e.c."
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0501,Agriculture,050101,Agricultural Science
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0501,Agriculture,050103,Wool Science
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0501,Agriculture,050105,Animal Husbandry
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0501,Agriculture,050199,"Agriculture, n.e.c."
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0503,Horticulture and Viticulture,050301,Horticulture
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0503,Horticulture and Viticulture,050303,Viticulture
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0505,Forestry Studies,050501,Forestry Studies
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0507,Fisheries Studies,050701,Aquaculture
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0507,Fisheries Studies,050799,"Fisheries Studies, n.e.c."
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0509,Environmental Studies,050901,"Land, Parks and Wildlife Management"
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0509,Environmental Studies,050999,"Environmental Studies, n.e.c."
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0599,"Other Agriculture, Environmental and Related Studies",059901,Pest and Weed Control
+05,"AGRICULTURE, ENVIRONMENTAL AND RELATED STUDIES",0599,"Other Agriculture, Environmental and Related Studies",059999,"Agriculture, Environmental and Related Studies, n.e.c."
+06,HEALTH,0601,Medical Studies,060101,General Medicine
+06,HEALTH,0601,Medical Studies,060103,Surgery
+06,HEALTH,0601,Medical Studies,060105,Psychiatry
+06,HEALTH,0601,Medical Studies,060107,Obstetrics and Gynaecology
+06,HEALTH,0601,Medical Studies,060109,Paediatrics
+06,HEALTH,0601,Medical Studies,060111,Anaesthesiology
+06,HEALTH,0601,Medical Studies,060113,Pathology
+06,HEALTH,0601,Medical Studies,060115,Radiology
+06,HEALTH,0601,Medical Studies,060117,Internal Medicine
+06,HEALTH,0601,Medical Studies,060119,General Practice
+06,HEALTH,0601,Medical Studies,060199,"Medical Studies, n.e.c."
+06,HEALTH,0603,Nursing,060301,General Nursing
+06,HEALTH,0603,Nursing,060303,Midwifery
+06,HEALTH,0603,Nursing,060305,Mental Health Nursing
+06,HEALTH,0603,Nursing,060307,Community Nursing
+06,HEALTH,0603,Nursing,060309,Critical Care Nursing
+06,HEALTH,0603,Nursing,060311,Aged Care Nursing
+06,HEALTH,0603,Nursing,060313,Palliative Care Nursing
+06,HEALTH,0603,Nursing,060315,Mothercraft Nursing and Family and Child Health Nursing
+06,HEALTH,0603,Nursing,060399,"Nursing, n.e.c."
+06,HEALTH,0605,Pharmacy,060501,Pharmacy
+06,HEALTH,0607,Dental Studies,060701,Dentistry
+06,HEALTH,0607,Dental Studies,060703,Dental Assisting
+06,HEALTH,0607,Dental Studies,060705,Dental Technology
+06,HEALTH,0607,Dental Studies,060799,"Dental Studies, n.e.c."
+06,HEALTH,0609,Optical Science,060901,Optometry
+06,HEALTH,0609,Optical Science,060903,Optical Technology
+06,HEALTH,0609,Optical Science,060999,"Optical Science, n.e.c."
+06,HEALTH,0611,Veterinary Studies,061101,Veterinary Science
+06,HEALTH,0611,Veterinary Studies,061103,Veterinary Assisting
+06,HEALTH,0611,Veterinary Studies,061199,"Veterinary Studies, n.e.c."
+06,HEALTH,0613,Public Health,061301,Occupational Health and Safety
+06,HEALTH,0613,Public Health,061303,Environmental Health
+06,HEALTH,0613,Public Health,061305,Indigenous Health
+06,HEALTH,0613,Public Health,061307,Health Promotion
+06,HEALTH,0613,Public Health,061309,Community Health 
+06,HEALTH,0613,Public Health,061311,Epidemiology
+06,HEALTH,0613,Public Health,061399,"Public Health, n.e.c."
+06,HEALTH,0615,Radiography,061501,Radiography
+06,HEALTH,0617,Rehabilitation Therapies,061701,Physiotherapy
+06,HEALTH,0617,Rehabilitation Therapies,061703,Occupational Therapy
+06,HEALTH,0617,Rehabilitation Therapies,061705,Chiropractic and Osteopathy
+06,HEALTH,0617,Rehabilitation Therapies,061707,Speech Pathology
+06,HEALTH,0617,Rehabilitation Therapies,061709,Audiology
+06,HEALTH,0617,Rehabilitation Therapies,061711,Massage Therapy
+06,HEALTH,0617,Rehabilitation Therapies,061713,Podiatry
+06,HEALTH,0617,Rehabilitation Therapies,061799,"Rehabilitation Therapies, n.e.c."
+06,HEALTH,0619,Complementary Therapies,061901,Naturopathy
+06,HEALTH,0619,Complementary Therapies,061903,Acupuncture
+06,HEALTH,0619,Complementary Therapies,061905,Traditional Chinese Medicine
+06,HEALTH,0619,Complementary Therapies,061999,"Complementary Therapies, n.e.c."
+06,HEALTH,0699,Other Health,069901,Nutrition and Dietetics
+06,HEALTH,0699,Other Health,069903,Human Movement
+06,HEALTH,0699,Other Health,069905,Paramedical Studies
+06,HEALTH,0699,Other Health,069907,First Aid
+06,HEALTH,0699,Other Health,069999,"Health, n.e.c."
+07,EDUCATION,0701,Teacher Education,070101,Teacher Education: Early Childhood
+07,EDUCATION,0701,Teacher Education,070103,Teacher Education: Primary
+07,EDUCATION,0701,Teacher Education,070105,Teacher Education: Secondary
+07,EDUCATION,0701,Teacher Education,070107,Teacher-Librarianship
+07,EDUCATION,0701,Teacher Education,070109,Teacher Education: Vocational Education and Training
+07,EDUCATION,0701,Teacher Education,070111,Teacher Education: Higher Education
+07,EDUCATION,0701,Teacher Education,070113,Teacher Education: Special Education
+07,EDUCATION,0701,Teacher Education,070115,English as a Second Language Teaching
+07,EDUCATION,0701,Teacher Education,070117,Nursing Education Teacher Training
+07,EDUCATION,0701,Teacher Education,070199,"Teacher Education, n.e.c."
+07,EDUCATION,0703,Curriculum and Education Studies,070301,Curriculum Studies
+07,EDUCATION,0703,Curriculum and Education Studies,070303,Education Studies
+07,EDUCATION,0799,Other Education,079999,"Education, n.e.c."
+08,MANAGEMENT AND COMMERCE,0801,Accounting,080101,Accounting
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080301,Business Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080303,Human Resource Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080305,Personal Management Training
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080307,Organisation Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080309,Industrial Relations
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080311,International Business
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080313,Public and Health Care Administration
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080315,Project Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080317,Quality Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080319,Hospitality Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080321,Farm Management and Agribusiness
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080323,Tourism Management
+08,MANAGEMENT AND COMMERCE,0803,Business and Management,080399,"Business and Management, n.e.c."
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080501,Sales
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080503,Real Estate
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080505,Marketing
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080507,Advertising
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080509,Public Relations
+08,MANAGEMENT AND COMMERCE,0805,Sales and Marketing,080599,"Sales and Marketing, n.e.c."
+08,MANAGEMENT AND COMMERCE,0807,Tourism,080701,Tourism
+08,MANAGEMENT AND COMMERCE,0809,Office Studies,080901,Secretarial and Clerical Studies
+08,MANAGEMENT AND COMMERCE,0809,Office Studies,080903,Keyboard Skills
+08,MANAGEMENT AND COMMERCE,0809,Office Studies,080905,Practical Computing Skills
+08,MANAGEMENT AND COMMERCE,0809,Office Studies,080999,"Office Studies, n.e.c."
+08,MANAGEMENT AND COMMERCE,0811,"Banking, Finance and Related Fields",081101,Banking and Finance
+08,MANAGEMENT AND COMMERCE,0811,"Banking, Finance and Related Fields",081103,Insurance and Actuarial Studies
+08,MANAGEMENT AND COMMERCE,0811,"Banking, Finance and Related Fields",081105,Investment and Securities
+08,MANAGEMENT AND COMMERCE,0811,"Banking, Finance and Related Fields",081199,"Banking, Finance and Related Fields, n.e.c."
+08,MANAGEMENT AND COMMERCE,0899,Other Management and Commerce,089901,"Purchasing, Warehousing and Distribution"
+08,MANAGEMENT AND COMMERCE,0899,Other Management and Commerce,089903,Valuation
+08,MANAGEMENT AND COMMERCE,0899,Other Management and Commerce,089999,"Management and Commerce, n.e.c."
+09,SOCIETY AND CULTURE,0901,Political Science and Policy Studies,090101,Political Science
+09,SOCIETY AND CULTURE,0901,Political Science and Policy Studies,090103,Policy Studies
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090301,Sociology
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090303,Anthropology
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090305,History
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090307,Archaeology
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090309,Human Geography
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090311,Indigenous Studies
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090313,Gender Specific Studies
+09,SOCIETY AND CULTURE,0903,Studies in Human Society,090399,"Studies in Human Society, n.e.c."
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090501,Social Work
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090503,Children's Services
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090505,Youth Work
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090507,Care for the Aged
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090509,Care for the Disabled
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090511,Residential Client Care
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090513,Counselling
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090515,Welfare Studies
+09,SOCIETY AND CULTURE,0905,Human Welfare Studies and Services,090599,"Human Welfare Studies and Services, n.e.c."
+09,SOCIETY AND CULTURE,0907,Behavioural Science,090701,Psychology
+09,SOCIETY AND CULTURE,0907,Behavioural Science,090799,"Behavioural Science, n.e.c."
+09,SOCIETY AND CULTURE,0909,Law,090901,Business and Commercial Law
+09,SOCIETY AND CULTURE,0909,Law,090903,Constitutional Law
+09,SOCIETY AND CULTURE,0909,Law,090905,Criminal Law
+09,SOCIETY AND CULTURE,0909,Law,090907,Family Law
+09,SOCIETY AND CULTURE,0909,Law,090909,International Law
+09,SOCIETY AND CULTURE,0909,Law,090911,Taxation Law
+09,SOCIETY AND CULTURE,0909,Law,090913,Legal Practice
+09,SOCIETY AND CULTURE,0909,Law,090999,"Law, n.e.c."
+09,SOCIETY AND CULTURE,0911,Justice and Law Enforcement,091101,Justice Administration
+09,SOCIETY AND CULTURE,0911,Justice and Law Enforcement,091103,Legal Studies
+09,SOCIETY AND CULTURE,0911,Justice and Law Enforcement,091105,Police Studies
+09,SOCIETY AND CULTURE,0911,Justice and Law Enforcement,091199,"Justice and Law Enforcement, n.e.c."
+09,SOCIETY AND CULTURE,0913,"Librarianship, Information Management and Curatorial Studies",091301,Librarianship and Information Management
+09,SOCIETY AND CULTURE,0913,"Librarianship, Information Management and Curatorial Studies",091303,Curatorial Studies
+09,SOCIETY AND CULTURE,0915,Language and Literature,091501,English Language
+09,SOCIETY AND CULTURE,0915,Language and Literature,091503,Northern European Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091505,Southern European Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091507,Eastern European Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091509,Southwest Asian and North African Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091511,Southern Asian Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091513,Southeast Asian Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091515,Eastern Asian Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091517,Australian Indigenous Languages
+09,SOCIETY AND CULTURE,0915,Language and Literature,091519,Translating and Interpreting
+09,SOCIETY AND CULTURE,0915,Language and Literature,091521,Linguistics
+09,SOCIETY AND CULTURE,0915,Language and Literature,091523,Literature
+09,SOCIETY AND CULTURE,0915,Language and Literature,091599,"Language and Literature, n.e.c."
+09,SOCIETY AND CULTURE,0917,Philosophy and Religious Studies,091701,Philosophy
+09,SOCIETY AND CULTURE,0917,Philosophy and Religious Studies,091703,Religious Studies
+09,SOCIETY AND CULTURE,0919,Economics and Econometrics,091901,Economics
+09,SOCIETY AND CULTURE,0919,Economics and Econometrics,091903,Econometrics
+09,SOCIETY AND CULTURE,0921,Sport and Recreation,092101,Sport and Recreation Activities
+09,SOCIETY AND CULTURE,0921,Sport and Recreation,092103,"Sports Coaching, Officiating and Instruction"
+09,SOCIETY AND CULTURE,0921,Sport and Recreation,092199,"Sport and Recreation, n.e.c."
+09,SOCIETY AND CULTURE,0999,Other Society and Culture,099901,Family and Consumer Studies
+09,SOCIETY AND CULTURE,0999,Other Society and Culture,099903,Criminology
+09,SOCIETY AND CULTURE,0999,Other Society and Culture,099905,Security Services
+09,SOCIETY AND CULTURE,0999,Other Society and Culture,099999,"Society and Culture, n.e.c."
+10,CREATIVE ARTS,1001,Performing Arts,100101,Music
+10,CREATIVE ARTS,1001,Performing Arts,100103,Drama and Theatre Studies
+10,CREATIVE ARTS,1001,Performing Arts,100105,Dance
+10,CREATIVE ARTS,1001,Performing Arts,100199,"Performing Arts, n.e.c."
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100301,Fine Arts
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100303,Photography
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100305,Crafts
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100307,Jewellery Making
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100309,Floristry
+10,CREATIVE ARTS,1003,Visual Arts and Crafts,100399,"Visual Arts and Crafts, n.e.c."
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100501,Graphic Arts and Design Studies
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100503,Textile Design
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100505,Fashion Design
+10,CREATIVE ARTS,1005,Graphic and Design Studies,100599,"Graphic and Design Studies, n.e.c."
+10,CREATIVE ARTS,1007,Communication and Media Studies,100701,Audio Visual Studies
+10,CREATIVE ARTS,1007,Communication and Media Studies,100703,Journalism
+10,CREATIVE ARTS,1007,Communication and Media Studies,100705,Written Communication
+10,CREATIVE ARTS,1007,Communication and Media Studies,100707,Verbal Communication
+10,CREATIVE ARTS,1007,Communication and Media Studies,100799,"Communication and Media Studies, n.e.c."
+10,CREATIVE ARTS,1099,Other Creative Arts,109999,"Creative Arts, n.e.c."
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110101,Hospitality
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110103,Food and Beverage Service
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110105,Butchery
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110107,Baking and Pastrymaking
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110109,Cookery
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110111,Food Hygiene
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1101,Food and Hospitality,110199,"Food and Hospitality, n.e.c."
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110301,Beauty Therapy
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110303,Hairdressing
+11,"FOOD, HOSPITALITY AND PERSONAL SERVICES",1103,Personal Services,110399,"Personal Services, n.e.c."
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120101,General Primary and Secondary Education Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120103,Literacy and Numeracy Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120105,Learning Skills Programmes
+12,MIXED FIELD PROGRAMMES,1201,General Education Programmes,120199,"General Education Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120301,Social and Interpersonal Skills Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120303,Survival Skills Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120305,Parental Education Programmes
+12,MIXED FIELD PROGRAMMES,1203,Social Skills Programmes,120399,"Social Skills Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120501,Career Development Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120503,Job Search Skills Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120505,Work Practices Programmes
+12,MIXED FIELD PROGRAMMES,1205,Employment Skills Programmes,120599,"Employment Skills Programmes, n.e.c."
+12,MIXED FIELD PROGRAMMES,1299,Other Mixed Field Programmes,129999,"Mixed Field Programmes, n.e.c."

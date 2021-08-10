@@ -1,0 +1,377 @@
+[
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 1",
+    "newColumnName": "Mouse Gene Symbol",
+    "description": "Rename column Column 1 to Mouse Gene Symbol"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 2",
+    "newColumnName": "Embryo age",
+    "description": "Rename column Column 2 to Embryo age"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 3",
+    "newColumnName": "Expression text annotation",
+    "description": "Rename column Column 3 to Expression text annotation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 4",
+    "newColumnName": "EMAGE ID",
+    "description": "Rename column Column 4 to EMAGE ID"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 5",
+    "newColumnName": "Genotype",
+    "description": "Rename column Column 5 to Genotype"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 6",
+    "newColumnName": "Assay type",
+    "description": "Rename column Column 6 to Assay type"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 7",
+    "newColumnName": "Probe ID",
+    "description": "Rename column Column 7 to Probe ID"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Column 8",
+    "newColumnName": "Strain",
+    "description": "Rename column Column 8 to Strain"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Column 9",
+    "description": "Remove column Column 9"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Column 10",
+    "description": "Remove column Column 10"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Genotype",
+    "expression": "grel:if(value != \"wild-type\", \"heterozygote\", \"wt\")",
+    "onError": "set-to-blank",
+    "newColumnName": "wt/het",
+    "columnInsertIndex": 5,
+    "description": "Create column wt/het at index 5 based on column Genotype using expression grel:if(value != \"wild-type\", \"heterozygote\", \"wt\")"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Mouse Gene Symbol",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mab21l1",
+          "Mab21l2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mab21l1"
+      },
+      {
+        "from": [
+          "Aldh1a1",
+          "Aldh1a2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aldh1a1"
+      },
+      {
+        "from": [
+          "Tcf7l2",
+          "Tcf-7l2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tcf7l2"
+      },
+      {
+        "from": [
+          "Igf2bp1",
+          "Igf2bp2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Igf2bp1"
+      },
+      {
+        "from": [
+          "Smarcd2",
+          "Smarcd3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Smarcd2"
+      },
+      {
+        "from": [
+          "Hmbox-1",
+          "Hmbox1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hmbox-1"
+      },
+      {
+        "from": [
+          "Creb3l1",
+          "Creb3l4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Creb3l1"
+      },
+      {
+        "from": [
+          "TWIST-1",
+          "Twist1"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TWIST-1"
+      },
+      {
+        "from": [
+          "Zscan2",
+          "Zscan21"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zscan2"
+      },
+      {
+        "from": [
+          "Zfp-422",
+          "Zfp422"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zfp-422"
+      },
+      {
+        "from": [
+          "Zkscan3",
+          "Zkscan5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zkscan3"
+      },
+      {
+        "from": [
+          "Tcf7l2",
+          "Tcf7l-2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tcf7l2"
+      },
+      {
+        "from": [
+          "IGDCC3",
+          "Igdcc3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "IGDCC3"
+      }
+    ],
+    "description": "Mass edit cells in column Mouse Gene Symbol"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Mouse Gene Symbol",
+    "urlExpression": "grel:\"http://rest.genenames.org/fetch/symbol/\" +value\"",
+    "onError": "set-to-blank",
+    "newColumnName": "HGNC gene info",
+    "columnInsertIndex": 1,
+    "delay": 20,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.4.1 [437dc4d]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      }
+    ],
+    "description": "Create column HGNC gene info at index 1 by fetching URLs based on column Mouse Gene Symbol using expression grel:\"http://rest.genenames.org/fetch/symbol/\" +value\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "HGNC gene info",
+    "expression": "grel:parseHtml(value).select(\"str[name=symbol]\")[0].htmlText()",
+    "onError": "set-to-blank",
+    "newColumnName": "Human Gene Symbol",
+    "columnInsertIndex": 2,
+    "description": "Create column Human Gene Symbol at index 2 based on column HGNC gene info using expression grel:parseHtml(value).select(\"str[name=symbol]\")[0].htmlText()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "HGNC gene info",
+    "expression": "grel:parseHtml(value).select(\"str[name=vega_id]\")[0].htmlText()",
+    "onError": "set-to-blank",
+    "newColumnName": "VEGA ID",
+    "columnInsertIndex": 2,
+    "description": "Create column VEGA ID at index 2 based on column HGNC gene info using expression grel:parseHtml(value).select(\"str[name=vega_id]\")[0].htmlText()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "HGNC gene info",
+    "description": "Remove column HGNC gene info"
+  },
+  {
+    "op": "core/column-addition-by-fetching-urls",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Human Gene Symbol",
+    "urlExpression": "grel:\"https://api.omim.org/api/entry/search?index=clinicalSynopsis&&apiKey=oJvnufHfSQaWKo4ryl3hlw&filter=cs_molecular_basis_exists%3Atrue&search=\" + value\"\"",
+    "onError": "store-error",
+    "newColumnName": "OMIM info",
+    "columnInsertIndex": 3,
+    "delay": 300,
+    "cacheResponses": true,
+    "httpHeadersJson": [
+      {
+        "name": "authorization",
+        "value": ""
+      },
+      {
+        "name": "user-agent",
+        "value": "OpenRefine 3.4.1 [437dc4d]"
+      },
+      {
+        "name": "accept",
+        "value": "*/*"
+      }
+    ],
+    "description": "Create column OMIM info at index 3 by fetching URLs based on column Human Gene Symbol using expression grel:\"https://api.omim.org/api/entry/search?index=clinicalSynopsis&&apiKey=oJvnufHfSQaWKo4ryl3hlw&filter=cs_molecular_basis_exists%3Atrue&search=\" + value\"\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "OMIM info",
+    "expression": "grel:value.parseHtml().select(\"preferredTitle\")[0].htmlText()",
+    "onError": "set-to-blank",
+    "newColumnName": "Disease Name",
+    "columnInsertIndex": 4,
+    "description": "Create column Disease Name at index 4 based on column OMIM info using expression grel:value.parseHtml().select(\"preferredTitle\")[0].htmlText()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Expression text annotation",
+          "columnName": "Expression text annotation",
+          "query": "optic",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "OMIM info",
+    "expression": "grel:value.parseHtml().select(\"mimNumber\")[0].htmlText()",
+    "onError": "set-to-blank",
+    "newColumnName": "Disease id",
+    "columnInsertIndex": 4,
+    "description": "Create column Disease id at index 4 based on column OMIM info using expression grel:value.parseHtml().select(\"mimNumber\")[0].htmlText()"
+  }
+]
