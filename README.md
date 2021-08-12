@@ -11,7 +11,7 @@ A subset of the products (reports and analysis) produced to meet the assessment 
 | 2020 | CP5806 | [Data and Information: Management, Security, Privacy and Ethics](https://github.com/NikkiSarah/JCU-MDS/tree/main/CP5806) | - |
 | 2020 | MA5831 | [Big Data Management and Processing](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5831) | Hive & Pig |
 | 2020 | MA5840 | [Data Science and Strategic Decision Making](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5840) | - |
-| 2021 | MA5851 | [Master Class 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5851) | OpenRefine & Python |
+| 2021 | MA5851 | [Master Class 1](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5851) | OpenRefine & Python |
 | 2021 | MA5852 | [Master Class 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5852) | Amazon Web Services & Python |
 | 2021 | MA5853 | [Project 1](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5853) | Python |
 | 2021 | MA5854 | [Project 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5854) | Python |
