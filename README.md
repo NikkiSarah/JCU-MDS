@@ -1,5 +1,5 @@
 # JCU Master of Data Science
-A subset of the products (reports and analysis) produced to meet the assessment requirements for James Cook University's Master of Data Science (Professional) program.
+A subset of the products (reports and analysis) produced to meet the assessment requirements for James Cook University's Master of Data Science (Professional) program.*
 
 | Year | Course | Course Name | Language/Platform | JCU Sequence |
 |:-----|:-------|:------------|:------------------| :----------- |
@@ -19,3 +19,5 @@ A subset of the products (reports and analysis) produced to meet the assessment 
 | 2021 | MA5852 | [Master Class 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5852) | Amazon Web Services & Python | 4 |
 | 2021 | MA5853 | [Project 1](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5853) | Python | 4 |
 | 2021 | MA5854 | [Project 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5854) | Python | 4 |
+
+* Nearly all of the reports and other material produced for MA5854 have not been uploaded as they include proprietary/sensitive information and would violate the conditions of the NDA I had to sign. 
