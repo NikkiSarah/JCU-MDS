@@ -18,4 +18,4 @@ A subset of the products (reports and analysis) produced to meet the assessment 
 | 2021 | MA5851 | [Master Class 1](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5851) | OpenRefine & Python | 3 |
 | 2021 | MA5852 | [Master Class 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5852) | Amazon Web Services & Python | 4 |
 | 2021 | MA5853 | [Project 1](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5853) | Python | 4 |
-| 2021 | MA5854 | [Project 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5854) | TBC | 4 |
+| 2021 | MA5854 | [Project 2](https://github.com/NikkiSarah/JCU-MDS/tree/main/MA5854) | Python | 4 |
